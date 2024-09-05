@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
