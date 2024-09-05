@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
