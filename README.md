@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## Greedy
 |  |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0104-maximum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
