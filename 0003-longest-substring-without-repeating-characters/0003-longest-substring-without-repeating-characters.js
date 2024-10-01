@@ -72,20 +72,55 @@ var lengthOfLongestSubstring = function(s) {
 //   return maxlen;
 
 
-let l=0, r=0, maxlen=0;
-let mySet = new Set();
+// let l=0, r=0, maxlen=0;
+// let mySet = new Set();
 
-while(r<s.length) {
-    while(mySet.has(s[r])) {
-        mySet.delete(s[l])
-        l++
+// while(r<s.length) {
+//     while(mySet.has(s[r])) {
+//         mySet.delete(s[l])
+//         l++
+//     }
+//     mySet.add(s[r]);
+//     maxlen = Math.max(maxlen, r-l+1)
+//     r++
+// }
+
+// return maxlen
+
+
+
+
+
+
+    let left=0, right=0, maxlen=0;
+    let mySet = new Set();
+
+    while ( right < s.length ) {
+        if ( !mySet.has(s[right]) ) mySet.add(s[right]);
+        else {
+            // console.log(mySet)
+            while( mySet.has(s[right]) ) {
+                mySet.delete(s[left]);
+                left++;
+            }
+            mySet.add(s[right]);
+        }
+        maxlen = Math.max(maxlen, right-left+1);
+        right++;
     }
-    mySet.add(s[r]);
-    maxlen = Math.max(maxlen, r-l+1)
-    r++
-}
 
-return maxlen
+    return maxlen;
+
+
+
+
+
+
+
+
+
+
+
 
 
 
