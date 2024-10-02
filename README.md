@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## Greedy
 |  |
@@ -71,14 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
