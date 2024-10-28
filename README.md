@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0162-find-peak-element) |
@@ -139,7 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
