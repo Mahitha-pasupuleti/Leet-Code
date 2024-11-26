@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0196-delete-duplicate-emails) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
