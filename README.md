@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0234-palindrome-linked-list) |
