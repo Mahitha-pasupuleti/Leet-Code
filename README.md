@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0394-decode-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
