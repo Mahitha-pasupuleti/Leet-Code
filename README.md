@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
@@ -243,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
