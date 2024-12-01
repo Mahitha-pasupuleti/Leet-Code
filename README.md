@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0275-h-index-ii) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
