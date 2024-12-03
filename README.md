@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
+| [0243-shortest-word-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0243-shortest-word-distance) |
 | [0290-word-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
+| [0243-shortest-word-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0243-shortest-word-distance) |
 | [0275-h-index-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
