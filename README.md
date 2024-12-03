@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0278-first-bad-version) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 ## Hash Table
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0231-power-of-two) |
 | [0266-palindrome-permutation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
