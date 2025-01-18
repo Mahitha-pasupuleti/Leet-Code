@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
