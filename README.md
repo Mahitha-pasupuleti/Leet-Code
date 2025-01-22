@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
