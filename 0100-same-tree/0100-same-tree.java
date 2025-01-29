@@ -14,6 +14,25 @@
  * }
  */
 class Solution {
+    boolean sametree = true;
+    public void checkSameTree(TreeNode p, TreeNode q) {
+        if ( p == null && q == null ) return;
+        else if ( p == null || q == null ) {
+            sametree = false;
+            return;
+        }
+        if ( p.val != q.val ) sametree = false;
+        checkSameTree(p.left, q.left);
+        checkSameTree(p.right, q.right);
+    }
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        checkSameTree(p, q);
+        return sametree;
+    }
+}
+
+/* 
+class Solution {
     boolean result = true;
     public void getTree(TreeNode root1, TreeNode root2) {
         if ( root1 == null && root2 == null ) {
@@ -31,37 +50,4 @@ class Solution {
        return result;
     }
 }
-
-
-
-
-/* 
-public void getTree(TreeNode root, List<Integer> tree) {
-        if ( root == null ) {
-            //tree.add(null);
-            return;
-        }
-        getTree(root.left, tree);
-        tree.add(root.val);
-        getTree(root.right, tree);
-    }
-    public boolean isSameTree(TreeNode p, TreeNode q) {
-        List<Integer> tree1 = new ArrayList<>();
-        List<Integer> tree2 = new ArrayList<>();
-        getTree(p, tree1);
-        getTree(q, tree2);
-
-        System.out.println(tree1);
-        System.out.println(tree2);
-
-        if ( tree1.size() == tree2.size() ) {
-            for ( int i=0; i<tree1.size(); i++ ) {
-                if ( tree1.get(i) != tree2.get(i) ) return false;
-            }
-        } else {
-            return false;
-        }
-
-        return true;
-    }
 */
