@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0735-asteroid-collision) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Database
 |  |
 | ------- |
