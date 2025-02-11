@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -396,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
