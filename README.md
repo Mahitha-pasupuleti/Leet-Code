@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3226-minimum-number-game) |
 ## Monotonic Stack
@@ -411,8 +413,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
