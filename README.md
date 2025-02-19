@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0275-h-index-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0724-find-pivot-index) |
 ## Binary Search Tree
 |  |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0271-encode-and-decode-strings) |
+| [0303-range-sum-query-immutable](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
