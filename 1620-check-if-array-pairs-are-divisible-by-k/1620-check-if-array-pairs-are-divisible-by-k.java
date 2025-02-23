@@ -14,9 +14,6 @@ class Solution {
             }
         }
 
-        // System.out.println(countPair);
-        if ( countPair.size() == 0 ) return true;
-        // if ( countPair.size() == 1 && countPair.containsKey(0) ) return true;
-        return false;
+        return countPair.isEmpty();
     }
 }
