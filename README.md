@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2714-left-and-right-sum-differences](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2714-left-and-right-sum-differences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Math
 |  |
 | ------- |
