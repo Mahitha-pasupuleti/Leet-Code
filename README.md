@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0019-remove-nth-node-from-end-of-list) |
