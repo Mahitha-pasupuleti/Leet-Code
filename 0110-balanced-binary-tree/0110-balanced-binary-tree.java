@@ -14,19 +14,16 @@
  * }
  */
 class Solution {
-    // List<Integer> height = new ArrayList<>();
-    boolean result = true;
-    public int getSubtreeHeights(TreeNode root) {
+    boolean checkIsBalanced = true;
+    public int heightOfBinaryTree(TreeNode root) {
         if ( root == null ) return 0;
-        int lh = getSubtreeHeights(root.left);
-        int rh = getSubtreeHeights(root.right);
-        if ( Math.abs(lh-rh) > 1 ) result = false;
-        // height.add(1 + Math.max(lh, rh));
-        return 1 + Math.max(lh, rh);
+        int left = heightOfBinaryTree(root.left);
+        int right = heightOfBinaryTree(root.right);
+        if ( Math.abs(left - right) > 1 ) checkIsBalanced = false;
+        return 1 + Math.max(left, right);
     }
     public boolean isBalanced(TreeNode root) {
-        getSubtreeHeights(root);
-        // System.out.println(height);
-        return result;
+        heightOfBinaryTree(root);
+        return checkIsBalanced;
     }
 }
