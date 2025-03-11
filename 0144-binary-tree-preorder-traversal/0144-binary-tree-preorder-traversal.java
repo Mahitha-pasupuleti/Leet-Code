@@ -14,15 +14,32 @@
  * }
  */
 class Solution {
-public void printValues(TreeNode root, List<Integer> result) {
-    if ( root == null ) return;
-    result.add(root.val);
-    printValues(root.left, result);
-    printValues(root.right, result);
-}
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        printValues(root, result);
+        Stack<TreeNode> stack = new Stack<>();
+        List<Integer> result = new ArrayList();
+        while ( root != null || !stack.isEmpty() ) {
+            while ( root != null ) {
+                result.add(root.val);
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            root = root.right;
+        }
         return result;
     }
 }
+
+// class Solution {
+// public void printValues(TreeNode root, List<Integer> result) {
+//     if ( root == null ) return;
+//     result.add(root.val);
+//     printValues(root.left, result);
+//     printValues(root.right, result);
+// }
+//     public List<Integer> preorderTraversal(TreeNode root) {
+//         List<Integer> result = new ArrayList<>();
+//         printValues(root, result);
+//         return result;
+//     }
+// }
