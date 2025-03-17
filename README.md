@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0285-inorder-successor-in-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0285-inorder-successor-in-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0545-boundary-of-binary-tree) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0285-inorder-successor-in-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
