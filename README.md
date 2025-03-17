@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0231-power-of-two) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0101-symmetric-tree) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0101-symmetric-tree) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0285-inorder-successor-in-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0285-inorder-successor-in-bst) |
