@@ -23,7 +23,6 @@ class Solution {
             else if ( root.val == 1 ) return true;
         }
         if ( root.val == 3 ) return left && right;
-        if ( root.val == 2 ) return left || right;
-        return true; // not reachable
+        return left || right;
     }
 }
