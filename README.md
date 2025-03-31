@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 ## Sorting
 |  |
 | ------- |
