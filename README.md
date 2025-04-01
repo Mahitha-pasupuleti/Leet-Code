@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
+| [0907-koko-eating-bananas](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
