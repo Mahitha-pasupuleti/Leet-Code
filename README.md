@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0144-binary-tree-preorder-traversal) |
