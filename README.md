@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
