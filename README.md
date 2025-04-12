@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
