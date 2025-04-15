@@ -14,16 +14,14 @@ class Solution {
         int source = image[sr][sc];
 
         boolean[][] visited = new boolean[m][n];
-        for ( int i=0; i<m; i++ ) {
-            for ( int j=0; j<n; j++ ) {
-                visited[i][j] = false;
-            }
-        }
+        // for ( int i=0; i<m; i++ ) {
+        //     for ( int j=0; j<n; j++ ) {
+        //         visited[i][j] = false;
+        //     }
+        // }
 
         Queue<int[]> BFS = new LinkedList();
         BFS.add(new int[]{sr, sc});
-        // visited[sr][sc] = true;
-        // image[sr][sc] = color;
 
         while ( !BFS.isEmpty() ) {
             int[] node = BFS.poll();
