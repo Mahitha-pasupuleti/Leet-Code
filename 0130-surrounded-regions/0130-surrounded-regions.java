@@ -20,6 +20,8 @@ class Solution {
 
         int m = board.length;
         int n = board[0].length;
+        if (m == 0) return;
+        
         int[][] directions = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
 
         List<Integer> xIndex = new ArrayList<>();
