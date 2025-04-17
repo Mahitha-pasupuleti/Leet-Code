@@ -2,7 +2,22 @@ class Solution {
     public int findJudge(int n, int[][] trust) {
         int[] inDegree = new int[n+1];
         int[] outDegree = new int[n+1];
-        // [0, 1, 2]
+        /*
+         [0, 1, 2, 3]
+         [1, 3]
+         outdegree of '1' is 1, indegree of '3' is 1
+         [2, 3]
+         outdegree of '2' is 1, indegree of '3' is 1
+
+         outdegree
+         [1 : 1], [2 : 1], [3 : 0]
+
+         indegree
+         [1 : 0], [2 : 0], [3 : 2]
+
+         so '3' satisfies Judge criteria
+         */
+
 
         for ( int[] t : trust ) {
             inDegree[t[1]]++;
