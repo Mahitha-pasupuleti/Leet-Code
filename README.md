@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0275-h-index-ii) |
+| [0286-walls-and-gates](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0286-walls-and-gates) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0286-walls-and-gates) |
 | [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
