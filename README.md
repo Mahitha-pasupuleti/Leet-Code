@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0735-asteroid-collision) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1677-matrix-diagonal-sum) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0545-boundary-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
