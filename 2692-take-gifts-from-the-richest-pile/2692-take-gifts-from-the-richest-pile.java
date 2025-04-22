@@ -1,6 +1,6 @@
 class Solution {
     public long pickGifts(int[] gifts, int k) {
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>( (a, b) -> (b-a) );
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>( (a, b) -> (b-a) ); // better time complexity than Collection.reverseOrder
         for ( int gift : gifts ) {
             maxHeap.add(gift);
         }
