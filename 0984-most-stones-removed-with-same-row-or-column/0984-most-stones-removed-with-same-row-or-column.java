@@ -16,7 +16,7 @@ class Solution {
             }
         }
 
-        System.out.println(adjList);
+        // System.out.println(adjList);
 
         boolean[] visited = new boolean[n];
         int clusters = 0;
