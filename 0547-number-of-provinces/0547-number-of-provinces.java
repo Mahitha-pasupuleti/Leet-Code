@@ -13,16 +13,16 @@ class Solution {
         int n = isConnected.length;
         boolean[] visited = new boolean[n];
 
-        Map<Integer, List<Integer>> adjList = new HashMap<>();
-        for ( int i=0; i<n; i++ ) {
-            for ( int j=0; j<n; j++ ) {
-                if ( j != i && isConnected[i][j] == 1 ) {
-                    adjList.computeIfAbsent(i, k -> new ArrayList()).add(j);
-                }
-            }
-        }
+        // Map<Integer, List<Integer>> adjList = new HashMap<>();
+        // for ( int i=0; i<n; i++ ) {
+        //     for ( int j=0; j<n; j++ ) {
+        //         if ( j != i && isConnected[i][j] == 1 ) {
+        //             adjList.computeIfAbsent(i, k -> new ArrayList()).add(j);
+        //         }
+        //     }
+        // }
 
-        System.out.println(adjList);
+        // System.out.println(adjList);
 
         Queue<Integer> BFS = new ArrayDeque<>();
 
@@ -39,14 +39,12 @@ class Solution {
 
                 while ( !BFS.isEmpty() ) {
                     int node = BFS.poll();
-                    List<Integer> neighbours = adjList.get(node);
-                    if ( neighbours != null ) {
-                        for ( int neighbour: neighbours ) {
-                            if ( !visited[neighbour] ) {
-                                BFS.add(neighbour);
-                                visited[neighbour] = true;
+                    // List<Integer> neighbours = adjList.get(node);
+                    for ( int j=0; j<n; j++ ) {
+                            if ( isConnected[node][j] == 1 && !visited[j] ) {
+                                BFS.add(j);
+                                visited[j] = true;
                             }
-                        }
                     }
                 }
             }
