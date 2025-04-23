@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1039-find-the-town-judge) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
