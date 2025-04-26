@@ -44,15 +44,11 @@ class Solution {
             }
             current = current.next;
         }
-        while ( left != null ) {
+        if ( left != null ) {
             current.next = left;
-            left = left.next;
-            current = current.next;
         }
-        while ( right != null ) {
+        if ( right != null ) {
             current.next = right;
-            right = right.next;
-            current = current.next;
         }
         return head.next;
     }
