@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2058-concatenation-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
