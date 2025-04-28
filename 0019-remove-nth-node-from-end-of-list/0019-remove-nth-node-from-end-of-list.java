@@ -9,46 +9,44 @@
  * }
  */
 class Solution {
-
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        if ( head == null ) return head;
+        // len of LL = 5
+        // len-n+1
 
-        // Get length of the LinkedList
+         // get length
+         // len - n
+
+         // temp
+         // current = temp.next
+         // temp.next = current.next
+
+         // if remove head , count = 0, head = head.next
+        
+        if ( head.next == null ) return null;
+
+         // length
         ListNode temp = head;
-        int count = 0;
+        int length = 0;
         while ( temp != null ) {
-            count++;
             temp = temp.next;
+            length++;
         }
+        // System.out.println(length);
 
-        int pos = count-n+1;
-        System.out.println(pos);
+        int removeElement = length - n;
+        temp = head;
 
-        // Insert at given position
-        if ( pos == 1 ) return head.next;
-        else if ( pos == count ) {
-            ListNode current = head;
-            ListNode prev = null;
-            while ( current.next != null ) {
-                prev = current;
-                current = current.next;
-            }
-            prev.next = null;
-        } else {
-            ListNode current = head;
-            ListNode prev = null;
-            int x=0;
-            while ( current != null ) {
-                x++;
-                if ( pos == x ) {
-                    prev.next = current.next;
-                    break;
-                }
-                prev = current;
-                current = current.next;
-            }
+        if ( removeElement == 0 ) return head.next;
+
+        while ( removeElement != 1 ) {
+            temp = temp.next;
+            removeElement--;
         }
+        // ListNode current = temp.next;
+        temp.next = temp.next.next;
+        // current.next = null;
 
         return head;
+
     }
 }
