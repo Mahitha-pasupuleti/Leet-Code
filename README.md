@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
