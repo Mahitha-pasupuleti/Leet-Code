@@ -9,7 +9,7 @@ class Solution {
             }
             j++;
         }
-        if (prices[j - 1] > prices[i]) {
+        if (prices[prices.length - 1] > prices[i]) {
             result += prices[prices.length - 1] - prices[i];
         }
         return result;
