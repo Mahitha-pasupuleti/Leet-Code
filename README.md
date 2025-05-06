@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1170-shortest-common-supersequence) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0583-delete-operation-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1250-longest-common-subsequence) |
