@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1894-merge-strings-alternately) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
