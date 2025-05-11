@@ -7,11 +7,7 @@ class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
         if (n == 1) return nums[0];
-
-        // int[] newNums = new int[n-1];
-        // for ( int i=0; i<n-1; i++ ) {
-        //     newNums[i] = nums[i];
-        // }
+        
         int[] dp0 = new int[n];
         int[] dp1 = new int[n];
         Arrays.fill(dp0, -1);
