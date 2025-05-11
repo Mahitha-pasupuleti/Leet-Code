@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 ## Interactive
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1236-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
