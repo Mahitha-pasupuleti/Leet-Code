@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
