@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0148-sort-list) |
