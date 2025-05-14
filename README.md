@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0343-integer-break) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
