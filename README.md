@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0096-unique-binary-search-trees) |
