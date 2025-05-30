@@ -1,51 +1,26 @@
 class Solution {
     public int lastStoneWeightII(int[] stones) {
-        int totalWeight = 0;
-        int numStones = stones.length;
+        int sum = 0, n = stones.length;
 
-        // Calculate the total weight of all stones
-        for (int i = 0; i < numStones; i++) {
-            totalWeight += stones[i];
-        }
+        for ( int i=0; i<n; i++ ) sum += stones[i];
+        int target = sum/2;
 
-        int target = totalWeight / 2;
+        Boolean[][] dp = new Boolean[n+1][target+1];
 
-        // dp[i][j] = true if a subset of the first i stones can sum to j
-        boolean[][] dp = new boolean[numStones + 1][target + 1];
-
-        // A subset sum of 0 is always possible: the empty subset
-        for (int i = 0; i <= numStones; i++) {
-            dp[i][0] = true;
-        }
-
-        // No subset can be formed from 0 stones with positive sum
-        for (int j = 1; j <= target; j++) {
-            dp[0][j] = false;
-        }
-
-        // Build the DP table
-        for (int i = 1; i <= numStones; i++) {
-            for (int j = 1; j <= target; j++) {
-                if (stones[i - 1] <= j) {
-                    // Option to include the current stone or not
-                    dp[i][j] = dp[i - 1][j - stones[i - 1]] || dp[i - 1][j];
-                } else {
-                    // Cannot include the stone since it's larger than the target
-                    dp[i][j] = dp[i - 1][j];
-                }
+        for ( int k=target; k>=0; k-- ) {
+            if ( isTargetPossible(stones, n, k, dp) ) {
+                return (sum - 2*k);
             }
         }
-
-        // Find the closest sum to half of totalWeight (to minimize difference)
-        int bestPossibleHalfSum = 0;
-        for (int j = target; j >= 0; j--) {
-            if (dp[numStones][j]) {
-                bestPossibleHalfSum = j;
-                break;
-            }
+        return -1;
+    }
+    public boolean isTargetPossible(int[] stones, int n, int target, Boolean[][] dp) {
+        if ( target == 0 ) return true;
+        if ( target < 0 || n <= 0 ) return false;
+        if ( dp[n][target] != null ) return dp[n][target];
+        if ( stones[n-1] <= target ) {
+            return dp[n][target] = isTargetPossible(stones, n-1, target-stones[n-1], dp) || isTargetPossible(stones, n-1, target, dp);
         }
-
-        // The minimum possible difference is totalWeight - 2 * bestPossibleHalfSum
-        return totalWeight - 2 * bestPossibleHalfSum;
+        return dp[n][target] = isTargetPossible(stones, n-1, target, dp);
     }
 }
