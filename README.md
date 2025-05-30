@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
+| [1130-last-stone-weight-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1130-last-stone-weight-ii) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
+| [1130-last-stone-weight-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1250-longest-common-subsequence) |
