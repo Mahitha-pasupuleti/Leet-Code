@@ -1,48 +1,20 @@
 class Solution {
-    public int longestCommonSubsequence(String text1, String text2) {
-        int n = text1.length();
-        int m = text2.length();
-        int[][] dp = new int[n+1][m+1];
-        
-        for ( int i=1; i<n+1; i++ ) {
-            for ( int j=1; j<m+1; j++ ) {
-                if ( text1.charAt(i-1) == text2.charAt(j-1) ) {
-                    dp[i][j] = 1 + dp[i-1][j-1];
-                } else {
-                    dp[i][j] = Math.max( dp[i-1][j] , dp[i][j-1] );
-                }
-            }
-        }
-
-        return dp[n][m];
-    }
-}
-
-/*
-    class Solution {
-    int[][] dp;
-    public int LCS(String text1, String text2, int n, int m) {
+    // Good naming convention
+    private int findLongestCommonSubsequence(String text1, String text2, int n, int m, int[][] dp) {
         if ( n == 0 || m == 0 ) return 0;
         if ( dp[n][m] != -1 ) return dp[n][m];
-
         if ( text1.charAt(n-1) == text2.charAt(m-1) ) {
-            return dp[n][m] = 1 + LCS(text1, text2, n-1, m-1);
-        } else {
-            return dp[n][m] = Math.max( LCS(text1, text2, n, m-1), LCS(text1, text2, n-1, m) );
+            return dp[n][m] = 1 + findLongestCommonSubsequence(text1, text2, n-1, m-1, dp);
         }
+        return dp[n][m] = Math.max( findLongestCommonSubsequence(text1, text2, n-1, m, dp), findLongestCommonSubsequence(text1, text2, n, m-1, dp) );
     }
     public int longestCommonSubsequence(String text1, String text2) {
-        int n = text1.length();
-        int m = text2.length();
-        dp = new int[n+1][m+1];
-
-        for ( int i=0; i<n+1; i++ ) {
-            for ( int j=0; j<m+1; j++ ) {
-                dp[i][j] = -1;
-            }
+        int text1_Len = text1.length();
+        int text2_Len = text2.length();
+        int[][] dp = new int[text1_Len + 1][text2_Len + 2];
+        for ( int i=0; i<=text1_Len; i++ ) {
+            Arrays.fill(dp[i], -1);
         }
-
-        return LCS(text1, text2, n, m);
+        return findLongestCommonSubsequence(text1, text2, text1_Len, text2_Len, dp);
     }
 }
-*/
