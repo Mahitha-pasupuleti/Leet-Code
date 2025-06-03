@@ -11,15 +11,15 @@ class Solution {
             int insert = 1 + getMinDistance(word1, word2, n, m-1, dp);
             int delete = 1 + getMinDistance(word1, word2, n-1, m, dp);
             int replace = 1 + getMinDistance(word1, word2, n-1, m-1, dp);
-            int minVal = 0;
-            if ( insert < delete ) {
-                if ( insert < replace ) minVal = insert;
-                else minVal = replace;
-            } else {
-                if ( delete < replace ) minVal = delete;
-                else minVal = replace;
-            }
-            return dp[n][m] = minVal;
+            // int minVal = 0;
+            // if ( insert < delete ) {
+            //     if ( insert < replace ) minVal = insert;
+            //     else minVal = replace;
+            // } else {
+            //     if ( delete < replace ) minVal = delete;
+            //     else minVal = replace;
+            // }
+            return dp[n][m] = Math.min(insert, Math.min(delete, replace));
         }
     }
     public int minDistance(String word1, String word2) {
