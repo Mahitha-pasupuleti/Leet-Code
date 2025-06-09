@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0403-frog-jump) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0290-word-pattern) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -791,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
@@ -798,10 +804,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0948-sort-an-array) |
 ## Design
