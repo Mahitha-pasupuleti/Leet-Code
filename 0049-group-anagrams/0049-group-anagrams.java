@@ -1,108 +1,31 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> groupMap = new HashMap<>();
-        for ( String str : strs ) {
-            char[] str2ChArr = str.toCharArray();
-            Arrays.sort(str2ChArr);
-            String sortedStr = new String(str2ChArr);
-            if ( groupMap.containsKey(sortedStr) ) {
-                groupMap.get(sortedStr).add(str);
-            } else {
-                List<String> value = new ArrayList();
-                value.add(str);
-                groupMap.put(sortedStr, value);
+        /*
+            - For each string, sort the characters. 
+            - Use the sorted string as the key because anagrams have the same sorted form.
+            - Group all strings with the same sorted form.
+            - Finally, return all grouped values.
+        */
+        Map<String, List<String>> groupAnagram = new HashMap<>();
+
+        for (String str : strs) {
+            // Convert string to character array and sort it to get the key
+            char[] ch = str.toCharArray();
+            Arrays.sort(ch);
+            String key = new String(ch); // sorted version of the string
+
+            // If this key is not in the map, initialize a new list
+            if (!groupAnagram.containsKey(key)) {
+                groupAnagram.put(key, new ArrayList<>());
             }
+
+            // Add the original string to its anagram group.
+            // Since map stores key → list, we fetch the list using the key and add the string to it.
+            groupAnagram.get(key).add(str);
+
         }
-        List<List<String>> result = new ArrayList(groupMap.values());
-        return result;
+
+        // Return all grouped anagrams as a list of lists
+        return new ArrayList<>(groupAnagram.values());
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// class Solution {
-//     public List<List<String>> groupAnagrams(String[] strs) {
-//         Map<String, List<String>> anagramMap = new HashMap<>();
-        
-//         for (String str : strs) {
-//             // Handle empty strings correctly
-//             char[] charArray = str.toCharArray();
-//             Arrays.sort(charArray);
-//             String sortedKey = new String(charArray);
-
-//             // Check if the sorted key already exists in the map
-//             if (anagramMap.containsKey(sortedKey)) {
-//                 anagramMap.get(sortedKey).add(str);
-//             } else {
-//                 // If the key doesn't exist, create a new list and add it to the map
-//                 List<String> newList = new ArrayList<>();
-//                 newList.add(str);
-//                 anagramMap.put(sortedKey, newList);
-//             }
-//         }
-
-//         // Collect all grouped anagrams as a list of lists
-//         List<List<String>> result = new ArrayList<>(anagramMap.values());
-        
-//         return result;
-//     }
-// }
-
-
-// class Solution {
-//     public List<List<String>> groupAnagrams(String[] strs) {
-//         Map<String, String> myMap = new HashMap<>();
-//         for ( int i=0; i<strs.length; i++ ) {
-//             char[] arr = strs[i].toCharArray();
-//             Arrays.sort(arr);
-//             String current = new String(arr);
-//             myMap.put(strs[i], current);
-//         }
-//         System.out.println(myMap);
-
-//         Map<String, List<String>> groupMap = new HashMap<>();
-
-//         for ( Map.Entry<String, String> entry : myMap.entrySet() ) {
-//             String key = entry.getKey();
-//             String value = entry.getValue();
-//             if ( groupMap.containsKey(value) ) {
-//                 List<String> valList = groupMap.get(value);
-//                 valList.add(key);
-//                 groupMap.put(value, valList);
-//             } else {
-//                 List<String> newValList = new ArrayList();
-//                 newValList.add(key);
-//                 groupMap.put(value, newValList);
-//             }
-//         }
-
-//         System.out.println(groupMap);
-
-//         List<List<String>> result = new ArrayList();
-
-//         for ( Map.Entry<String, List<String>> entry : groupMap.entrySet() ) {
-//             result.add(entry.getValue());
-//         }
-
-//         System.out.println(result);
-
-//         return result;
-//     }
-// }
