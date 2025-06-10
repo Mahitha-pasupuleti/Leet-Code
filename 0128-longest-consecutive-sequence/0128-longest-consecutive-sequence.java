@@ -1,23 +1,44 @@
 class Solution {
-    public int longestConsecutive(int[] nums) {
-        // consecutive 1 difference between values
-        if ( nums.length == 0 ) return 0;
-        Arrays.sort(nums); // [-1, -1, 0, 1, 3, 4, 5, 6, 7, 8, 9]
-        System.out.println(Arrays.toString(nums));
+    
+    /*
+        Short Notes:
+        - Use a HashSet for fast lookup of numbers.
+        - Only start counting a consecutive sequence from numbers that don't have a predecessor (val - 1 not in set).
+        - Count consecutive integers by checking if val + 1 exists.
+        - Keep track of the longest consecutive sequence length found.
 
-        int currValue = nums[0], currLen = 1, maxLen = 1; // -1
-        for ( int i=1; i<nums.length; i++ ) {
-            int diff = nums[i] - currValue; // 1
-            currValue = nums[i]; // 0
-            if ( diff == 1 ) {
-                currLen++; // 2
-                maxLen = Math.max( maxLen, currLen ); // 2
-            } else {
-                if ( diff != 0 ) {
-                    currLen = 1; 
+        Time Complexity: O(n), since each number is processed at most twice.
+        Space Complexity: O(n), for storing the numbers in the set.
+    */
+
+    public int longestConsecutive(int[] nums) {
+        // Return 0 for empty input
+        if (nums.length == 0) return 0;
+
+        // Store all unique numbers in a HashSet for O(1) lookups
+        Set<Integer> mySet = new HashSet<>();
+        for (int num : nums) {
+            mySet.add(num);
+        }
+
+        int maxLen = 1; // To keep track of the max consecutive sequence length
+
+        // Iterate through each unique number
+        for (int val : mySet) {
+            // Check if 'val' is the start of a sequence
+            // If 'val - 1' doesn't exist, 'val' could be sequence start
+            if (!mySet.contains(val - 1)) {
+                int currLen = 1;
+                // Count consecutive numbers starting from 'val'
+                while (mySet.contains(val + 1)) {
+                    currLen++;
+                    val++;
                 }
+                // Update max length if current sequence is longer
+                maxLen = Math.max(maxLen, currLen);
             }
         }
+
         return maxLen;
     }
 }
