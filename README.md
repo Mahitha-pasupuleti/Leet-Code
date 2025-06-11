@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0053-maximum-subarray) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0062-unique-paths) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
