@@ -2,29 +2,32 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         int open = n;
         int close = n;
-        String OP = "";
-        List<String> result = new ArrayList<>();;
-        return Parenthesis(open, close, OP, result);
+        StringBuilder str = new StringBuilder();
+        List<String> validParenth = new ArrayList<>();
+        // Memoization
+        // Map<String, List<String>> memo = new HashMap<>();
+        generateValidParathesis(open, close, str, validParenth);
+        return validParenth;
     }
-    public List<String> Parenthesis(int open, int close, String OP, List<String> result) {
+    public void generateValidParathesis(int open, int close, StringBuilder str, List<String> validParenth) {
+        // System.out.println(open + " " + close);
         if ( open == 0 && close == 0 ) {
-            result.add(OP);
-            return result;
+            validParenth.add( str.toString() );
+            return;
         }
-        else if ( open != 0 && open < close ) {
-            String OP1 = OP + "(";
-            String OP2 = OP + ")";
-            Parenthesis(open-1, close, OP1, result);
-            Parenthesis(open, close-1, OP2, result);
+        if ( open > 0 && open < close ) {
+            generateValidParathesis( open-1, close, str.append('('), validParenth );
+            str.deleteCharAt(str.length()-1);
+            generateValidParathesis( open, close-1, str.append(')'), validParenth );
+            str.deleteCharAt(str.length()-1);
         }
-        else if ( open == close && open != 0 ) {
-            String OP1 = OP + "(";
-            Parenthesis(open-1, close, OP1, result);
+        if ( open == 0 && close > 0 ) {
+            generateValidParathesis( open, close-1, str.append(')'), validParenth );
+            str.deleteCharAt(str.length()-1);
         }
-        else if ( open == 0 && close > 0 ) {
-            String OP2 = OP + ")";
-            Parenthesis(open, close-1, OP2, result);
+        if ( open == close ) {
+             generateValidParathesis( open-1, close, str.append('('), validParenth );
+             str.deleteCharAt(str.length()-1);
         }
-        return result;
     }
 }
