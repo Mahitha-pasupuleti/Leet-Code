@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0907-koko-eating-bananas) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
@@ -872,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0931-maximum-frequency-stack) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
