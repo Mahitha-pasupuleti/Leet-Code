@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3447-clear-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3447-clear-digits) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 ## Ordered Set
 |  |
 | ------- |
@@ -958,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 <!---LeetCode Topics End-->
