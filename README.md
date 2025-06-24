@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0203-remove-linked-list-elements) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0271-encode-and-decode-strings) |
@@ -947,4 +950,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
