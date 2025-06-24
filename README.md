@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2714-left-and-right-sum-differences) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3226-minimum-number-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3226-minimum-number-game) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -954,4 +956,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 <!---LeetCode Topics End-->
