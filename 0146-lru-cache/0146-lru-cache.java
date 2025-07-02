@@ -1,69 +1,97 @@
-class LRUCache {
-    class Node {
-        int key, value;
-        Node prev, next;
-        Node(int key, int value) {
-            this.key = key;
-            this.value = value;
-        }
+class Node {
+    int key, value;
+    Node next, prev;
+    public Node(int key, int value) {
+        this.key = key;
+        this.value = value;
+        this.next = null;
+        this.prev = null;
     }
-
-    private final int capacity;
-    private final Map<Integer, Node> map;
-    private final Node head, tail; // dummy head and tail
+}
+class LRUCache {
+    private int capacity;
+    Map<Integer, Node> map;
+    Node front, rear;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        this.map = new HashMap<>();
-        
-        head = new Node(0, 0);
-        tail = new Node(0, 0);
-        
-        head.next = tail;
-        tail.prev = head;
+        map = new HashMap<>();
+        front = rear = null;
     }
 
-    public int get(int key) {
-        if (!map.containsKey(key)) return -1;
-
-        Node node = map.get(key);
-        moveToTail(node);
-        return node.value;
-    }
-
-    public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            Node node = map.get(key);
-            node.value = value;
-            moveToTail(node);
+    public void moveNodeToFront(Node curr) {
+        if ( curr.prev == null ) return; // front
+        if ( curr.next == null ) {
+            // update rear
+            Node currPrev = curr.prev;
+            currPrev.next = null;
+            curr.prev = null; // next already null
+            rear = currPrev;
         } else {
-            if (map.size() == capacity) {
-                Node lru = head.next;
-                remove(lru);
-                map.remove(lru.key);
-            }
+            // If both next nad prev are not null
+            Node currPrev = curr.prev;
+            Node currNext = curr.next;
+            currPrev.next = curr.next;
+            currNext.prev = curr.prev;
+            curr.next = null;
+            curr.prev = null;
+        }
+        curr.next = front;
+        front.prev = curr;
+        front = curr;
+    }
+    
+    public int get(int key) {
+        if ( !map.containsKey(key) ) return -1;
 
-            Node newNode = new Node(key, value);
-            map.put(key, newNode);
-            insertToTail(newNode);
+        Node curr = map.get( key );
+        moveNodeToFront( curr );
+        return curr.value;
+    }
+
+    public void addNodeAtFront(Node curr) {
+        if ( map.size() <= capacity ) {
+            if ( front == null && rear == null ) front = rear = curr;
+            else {
+                curr.next = front;
+                front.prev = curr;
+                front = curr;
+            }
+        } else {
+            curr.next = front;
+            front.prev = curr;
+            front = curr;
+
+            Node rearPrev = rear.prev;
+            rearPrev.next = rear.next;
+            if ( rear.next != null ) {
+                Node rearNext = rear.next;
+                rearNext.prev = rear.prev;
+            }
+            rear.next = null;
+            rear.prev = null;
+            map.remove(rear.key);
+            rear = rearPrev;
         }
     }
-
-    private void moveToTail(Node node) {
-        remove(node);
-        insertToTail(node);
-    }
-
-    private void remove(Node node) {
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
-    }
-
-    private void insertToTail(Node node) {
-        Node prev = tail.prev;
-        prev.next = node;
-        node.prev = prev;
-        node.next = tail;
-        tail.prev = node;
+    
+    public void put(int key, int value) {
+        if ( map.containsKey(key) ) {
+            Node curr = map.get(key);
+            curr.value = value;
+            moveNodeToFront( curr );
+        }
+        else {
+            Node curr = new Node(key, value);
+            map.put( key, curr );
+            addNodeAtFront( curr );
+        }
     }
 }
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache obj = new LRUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */
