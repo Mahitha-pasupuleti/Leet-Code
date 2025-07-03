@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0545-boundary-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0545-boundary-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
