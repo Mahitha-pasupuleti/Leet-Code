@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1731-even-odd-tree) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1731-even-odd-tree) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0917-boats-to-save-people) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1894-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
