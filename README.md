@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0198-house-robber) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
