@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0125-valid-palindrome) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0286-walls-and-gates) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0100-same-tree) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1993-sum-of-all-subset-xor-totals) |
