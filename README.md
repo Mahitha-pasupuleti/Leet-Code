@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0990-verifying-an-alien-dictionary) |
 | [1170-shortest-common-supersequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0967-minimum-falling-path-sum) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0990-verifying-an-alien-dictionary) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1039-find-the-town-judge) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
