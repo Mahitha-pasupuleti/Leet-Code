@@ -25,9 +25,11 @@ class Solution {
         map.put(orgHead.val, source);
         if ( neighborList != null ) {
             for ( Node neighbor : neighborList ) {
-                Node current = new Node(); 
+                Node current; 
                 if ( map.containsKey(neighbor.val) ) {
                     current = map.get(neighbor.val);
+                } else {
+                    current = new Node();
                 }
                 source.neighbors.add( current ); 
                 if ( map.containsKey(neighbor.val) ) continue;
@@ -41,7 +43,7 @@ class Solution {
         Node source = new Node();
         Map<Integer, Node> map = new HashMap<>();
 
-        dfs(map, orgHead, source); // 1, 0
+        dfs(map, orgHead, source);
         return source;
     }
 }
