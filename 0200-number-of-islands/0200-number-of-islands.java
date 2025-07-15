@@ -1,50 +1,27 @@
 class Solution {
-    public int numIslands(char[][] grid) {
-        if (grid == null || grid.length == 0) return 0;
-
-        int m = grid.length;
-        int n = grid[0].length;
-        int islandCount = 0;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == '1') {
-                    islandCount++;
-                    bfs(grid, i, j);
-                }
-            }
+    private void dfs(char[][] grid, boolean[][] visited, int[][] directions, int x, int y) {
+        if ( visited[x][y] ) return;
+        visited[x][y] = true;
+        for ( int[] dir : directions ) {
+            int dx = x + dir[0];
+            int dy = y + dir[1];
+            if ( dx<0 || dy<0 || dx>=grid.length || dy>=grid[0].length || grid[dx][dy] == '0' ) continue;
+            dfs(grid, visited, directions, dx, dy);
         }
-
-        return islandCount;
     }
-
-    private void bfs(char[][] grid, int i, int j) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{i, j});
-        grid[i][j] = '0'; // mark as visited
-
-        int[][] directions = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
-
-        while (!queue.isEmpty()) {
-            int[] cell = queue.poll();
-            int x = cell[0];
-            int y = cell[1];
-
-            for (int[] dir : directions) {
-                int newX = x + dir[0];
-                int newY = y + dir[1];
-
-                if (newX >= 0 && newX < m &&
-                    newY >= 0 && newY < n &&
-                    grid[newX][newY] == '1') {
-
-                    queue.offer(new int[]{newX, newY});
-                    grid[newX][newY] = '0'; // mark visited
+    public int numIslands(char[][] grid) {
+        int n = grid.length, m = grid[0].length;
+        boolean[][] visited = new boolean[n][m];
+        int[][] directions = {{-1,0},{1,0},{0,1},{0,-1}};
+        int noofIslands = 0;
+        for ( int i=0; i<n; i++ ) {
+            for ( int j=0; j<m; j++ ) {
+                if ( grid[i][j] == '1' && !visited[i][j] ) {
+                    noofIslands++;
+                    dfs(grid, visited, directions, i, j);
                 }
             }
         }
+        return noofIslands;
     }
 }
