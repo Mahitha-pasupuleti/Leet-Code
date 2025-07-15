@@ -1,57 +1,23 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-        int[] inDegree = new int[n+1];
-        int[] outDegree = new int[n+1];
-        /*
-         [0, 1, 2, 3]
-         [1, 3]
-         outdegree of '1' is 1, indegree of '3' is 1
-         [2, 3]
-         outdegree of '2' is 1, indegree of '3' is 1
+        // [1, 2, 3]
+        // [1, 1, 0] = outdegree
+        // [0, 0, 2] = indegree
+        // [1, 2, 3]
+        // [1, 1, 1] = outdegree
+        // [1, 0, 2] = indegree
 
-         outdegree
-         [1 : 1], [2 : 1], [3 : 0]
+        int[] inDegree = new int[n];
+        int[] outDegree = new int[n];
 
-         indegree
-         [1 : 0], [2 : 0], [3 : 2]
-
-         so '3' satisfies Judge criteria
-         */
-
-
-        for ( int[] t : trust ) {
-            inDegree[t[1]]++;
-            outDegree[t[0]]++;
+        for ( int i=0; i<trust.length; i++ ) {
+            outDegree[ trust[i][0] - 1 ]++;
+            inDegree[ trust[i][1] - 1 ]++;
         }
 
-        for ( int i=1; i<=n; i++ ) {
-            if ( outDegree[i] == 0 ) {
-                if ( inDegree[i] == n-1 ) return i;
-            }
+        for ( int i=0; i<n; i++ ) {
+            if ( outDegree[i] == 0 && inDegree[i] == n-1 ) return i+1;
         }
-
         return -1;
     }
 }
-
-/* 
-class Solution {
-    public int findJudge(int n, int[][] trust) {
-        if ( n == 1 ) return 1;
-
-        List<Integer> persons = new ArrayList();
-        Map<Integer, Integer> destMap = new HashMap<>();
-
-        for ( int[] source: trust ) {
-            persons.add(source[0]);
-            destMap.put(source[1], destMap.getOrDefault(source[1], 0) + 1);
-        }
-
-        for ( int i=1; i<=n; i++ ) {
-            if ( !persons.contains(i) && destMap.containsKey(i) && destMap.get(i) == n-1 ) return i;
-        }
-
-        return -1;
-    }
-}
-*/
