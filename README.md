@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
 | [1142-minimum-knight-moves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1142-minimum-knight-moves) |
+| [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -839,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
@@ -956,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
