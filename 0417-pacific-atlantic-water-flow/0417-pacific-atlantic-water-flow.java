@@ -1,33 +1,37 @@
 class Solution {
-    private void dfs(int row, int col, boolean[][] visited, int prevHeight, int[][] heights) {
-        if ( row<0 || col<0 || row>=heights.length || col>=heights[0].length || visited[row][col] || prevHeight > heights[row][col] ) return;
-        visited[row][col] = true;
-        dfs(row+1, col, visited, heights[row][col], heights);
-        dfs(row-1, col, visited, heights[row][col], heights);
-        dfs(row, col+1, visited, heights[row][col], heights);
-        dfs(row, col-1, visited, heights[row][col], heights);
+    private void dfs(int[][] heights, boolean[][] visited, int[][] directions, int x, int y) {
+        visited[x][y] = true;
+        for ( int[] dir : directions ) {
+            int dx = x + dir[0];
+            int dy = y + dir[1];
+            if ( dx<0 || dy<0 || dx>=heights.length || dy>=heights[0].length || visited[dx][dy] || heights[x][y] > heights[dx][dy] ) continue;
+            dfs(heights, visited, directions, dx, dy);
+        }
     }
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
+
         int rows = heights.length, cols = heights[0].length;
-        boolean[][] pacific = new boolean[rows][cols];
-        boolean[][] atlantic = new boolean[rows][cols];
+        int[][] directions = {{-1,0},{1,0},{0,1},{0,-1}};
+
+        boolean[][] pacificVisited = new boolean[rows][cols];
+        boolean[][] atlanticVisited = new boolean[rows][cols];
 
         for ( int col=0; col<cols; col++ ) {
-            dfs(0, col, pacific, heights[0][col], heights); // (0,0)(0,1)(0,2)(0,3)(0,4) = pacific
-            dfs(rows-1, col, atlantic, heights[rows-1][col], heights); // (4,0)(4,1)(4,2)(4,3)(4,4) = atlantic
+            dfs(heights, pacificVisited, directions, 0, col);
+            dfs(heights, atlanticVisited, directions, rows-1, col);
         }
 
         for ( int row=0; row<rows; row++ ) {
-            dfs(row, 0, pacific, heights[row][0], heights); // (0,0)(1,0)(2,0)(3,0)(4,0) = pacific
-            dfs(row, cols-1, atlantic, heights[row][cols-1], heights); // (0,4)(1,4)(2,4)(3,4)(4,4) = atlantic
+            dfs(heights, pacificVisited, directions, row, 0);
+            dfs(heights, atlanticVisited, directions, row, cols-1);
         }
 
         List<List<Integer>> result = new ArrayList<>();
 
-        for ( int i=0; i<rows; i++ ) {
-            for ( int j=0; j<cols; j++ ) {
-                if ( pacific[i][j] && atlantic[i][j] ) {
-                    result.add( Arrays.asList(i,j) );
+        for ( int row=0; row<rows; row++ ) {
+            for ( int col=0; col<cols; col++ ) {
+                if ( pacificVisited[row][col] && atlanticVisited[row][col] ) {
+                    result.add(Arrays.asList(row, col));
                 }
             }
         }
