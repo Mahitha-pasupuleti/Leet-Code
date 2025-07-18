@@ -1,55 +1,39 @@
 class Solution {
-    public void DFS(char[][] board, boolean[][] visited, int[][] directions, int x, int y, List<Integer> xIndex, List<Integer> yIndex, int m, int n) {
+    private void dfs(char[][] board, boolean[][] visited, int[][] directions, int x, int y) {
         visited[x][y] = true;
-        xIndex.add(x);
-        yIndex.add(y);
         for ( int[] dir : directions ) {
-            int dx = x+dir[0];
-            int dy = y+dir[1];
-            if ( dx<0 || dx>=m || dy<0 || dy>=n || board[dx][dy] != 'O' || visited[dx][dy] ) continue;
-            DFS(board, visited, directions, dx, dy, xIndex, yIndex, m, n);
+            int dx = x + dir[0];
+            int dy = y + dir[1];
+            if ( dx<0 || dy<0 || dx>=board.length || dy>=board[0].length || visited[dx][dy] || board[dx][dy] == 'X' ) continue;
+            dfs(board, visited, directions, dx, dy);
         }
     }
     public void solve(char[][] board) {
-        // '0' connect to form region
-        // if '0' on edge of board we cant capture it
-        // '0' internally i can capture it
-        // row = 0, column = 0, row = m-1, column = n-1 then edge
+        int rows = board.length, cols = board[0].length;
+        boolean[][] visited = new boolean[rows][cols];
+        int[][] directions = {{-1,0},{1,0},{0,1},{0,-1}};
 
-        // find all '0' filled graphs
+        for ( int col=0; col<cols; col++ ) {
+            if ( board[0][col] == 'O' ) {
+                dfs(board, visited, directions, 0, col);
+            }
+            if ( board[rows-1][col] == 'O' ) {
+                dfs(board, visited, directions, rows-1, col);
+            }
+        }
 
-        int m = board.length;
-        int n = board[0].length;
-        if (m == 0) return;
-        
-        int[][] directions = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
+        for ( int row=0; row<rows; row++ ) {
+            if ( board[row][0] == 'O' ) {
+                dfs(board, visited, directions, row, 0);
+            }
+            if ( board[row][cols-1] == 'O' ) {
+                dfs(board, visited, directions, row, cols-1);
+            }
+        }
 
-        List<Integer> xIndex = new ArrayList<>();
-        List<Integer> yIndex = new ArrayList<>();
-
-        boolean[][] visited = new boolean[m][n];
-
-        Queue<int[]> BFS = new LinkedList<>();
-
-        for ( int i=0; i<m; i++ ) {
-            for ( int j=0; j<n; j++ ) {
-                if ( !visited[i][j] && board[i][j] == 'O' ) {
-                    DFS(board, visited, directions, i, j, xIndex, yIndex, m, n);
-                    boolean isEdge = false;
-                    for ( int k=0; k<xIndex.size(); k++ ) {
-                        if ( xIndex.get(k) == 0 || xIndex.get(k) == m-1 || yIndex.get(k) == 0 || yIndex.get(k) == n-1 ) {
-                            isEdge = true;
-                            break;
-                        }
-                    }
-                    if ( !isEdge ) {
-                        for ( int k=0; k<xIndex.size(); k++ ) {
-                            board[xIndex.get(k)][yIndex.get(k)] = 'X';
-                        }
-                    }
-                    xIndex.clear();
-                    yIndex.clear();
-                }
+        for ( int row=0; row<rows; row++ ) {
+            for ( int col=0; col<cols; col++ ) {
+                if ( board[row][col] == 'O' && !visited[row][col] ) board[row][col] = 'X';
             }
         }
 
