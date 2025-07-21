@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0967-minimum-falling-path-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0990-verifying-an-alien-dictionary) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
 | [1142-minimum-knight-moves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1142-minimum-knight-moves) |
