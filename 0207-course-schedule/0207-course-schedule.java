@@ -1,4 +1,5 @@
 class Solution {
+    // The goal is cycle detection, not necessarily topological ordering.
     private boolean dfs(Map<Integer, List<Integer>> adjList, int[] path, int source) {
         path[source] = 2;
         List<Integer> destList = adjList.get(source);
