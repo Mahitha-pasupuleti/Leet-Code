@@ -17,19 +17,18 @@ class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         Map<Integer, List<Integer>> adjMap = new HashMap<>();
         int[] path = new int[numCourses];
+        List<Integer> result = new ArrayList<>();
+        int[] sortedOrder = new int[numCourses];
 
         for ( int[] prerequisite : prerequisites ) {
             adjMap.computeIfAbsent( prerequisite[1], k -> new ArrayList<>() ).add( prerequisite[0] );
         }
-
-        List<Integer> result = new ArrayList<>();
 
         for ( int i=0; i<numCourses; i++ ) {
             if ( path[i] != 0 ) continue;
             if ( dfs(adjMap, path, i, result) ) return new int[]{};
         }
 
-        int[] sortedOrder = new int[numCourses];
         for ( int i=0; i<numCourses; i++ ) {
             sortedOrder[i] = result.get(i);
         }
