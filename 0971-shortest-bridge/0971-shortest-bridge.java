@@ -25,6 +25,7 @@ class Solution {
                     break;
                 }
             }
+            if ( oneIslandVisited ) break;
         }
 
         int level = 0;
