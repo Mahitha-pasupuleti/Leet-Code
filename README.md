@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3189-find-champion-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
