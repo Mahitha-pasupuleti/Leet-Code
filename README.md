@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1677-matrix-diagonal-sum) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1142-minimum-knight-moves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1142-minimum-knight-moves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1013,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
