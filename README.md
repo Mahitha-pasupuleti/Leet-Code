@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0904-leaf-similar-trees) |
+| [0922-possible-bipartition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0971-shortest-bridge) |
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1229-shortest-path-with-alternating-colors) |
