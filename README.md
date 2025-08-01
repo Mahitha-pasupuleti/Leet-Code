@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0922-possible-bipartition) |
@@ -1099,4 +1103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
