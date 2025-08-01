@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2634-minimum-common-value) |
 ## Matrix
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1677-matrix-diagonal-sum) |
+| [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1731-even-odd-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
@@ -835,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -1023,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
