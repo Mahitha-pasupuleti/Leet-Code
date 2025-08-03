@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0883-car-fleet) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
+| [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0971-shortest-bridge) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -848,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
@@ -1039,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
