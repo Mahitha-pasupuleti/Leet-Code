@@ -1,48 +1,54 @@
+class Pair {
+    long a; 
+    int b;  
+    Pair(long a, int b) {
+        this.a = a;
+        this.b = b;
+    }
+}
+
 class Solution {
     public int countPaths(int n, int[][] roads) {
-        final int MOD = 1_000_000_007;
+        List<List<Pair>> adj = new ArrayList<>();
+        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
 
-        long[] minDistance = new long[n];
-        int[] ways = new int[n];
-        Arrays.fill(minDistance, Long.MAX_VALUE);
-        minDistance[0] = 0;
-        ways[0] = 1;
-
-        Map<Integer, List<int[]>> adjList = new HashMap<>();
-        for ( int[] road : roads ) {
-            adjList.computeIfAbsent(road[0], k -> new ArrayList<>()).add(new int[]{road[1], road[2]});
-            adjList.computeIfAbsent(road[1], k -> new ArrayList<>()).add(new int[]{road[0], road[2]});
+        for (int i = 0; i < roads.length; i++) {
+            int u = roads[i][0];
+            int v = roads[i][1];
+            int wt = roads[i][2];
+            adj.get(u).add(new Pair(wt, v));
+            adj.get(v).add(new Pair(wt, u));
         }
 
-        PriorityQueue<long[]> pq = new PriorityQueue<>(
-            (a, b) -> Long.compare(a[0], b[0])
-        );
-        pq.add(new long[]{0, 0});
+        long[] dist = new long[n];
+        int[] ways = new int[n];
+        Arrays.fill(dist, Long.MAX_VALUE);
+        int mod = (int) (1e9 + 7);
 
-        while ( !pq.isEmpty() ) {
-            long[] top = pq.poll();
-            long distSrc = top[0];
-            int nodeSrc = (int)top[1];
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x, y) -> Long.compare(x.a, y.a));
+        pq.add(new Pair(0L, 0));
+        dist[0] = 0;
+        ways[0] = 1;
 
-            if (distSrc > minDistance[nodeSrc]) continue;
+        while (!pq.isEmpty()) {
+            Pair curr = pq.poll();
+            long dis = curr.a;
+            int node = curr.b;
 
-            List<int[]> edgeList = adjList.get(nodeSrc);
-            if ( edgeList != null ) {
-                for ( int[] edge : edgeList ) {
-                    long distDest = edge[1] + distSrc;
-                    int nodeDest = edge[0];
+            for (Pair i : adj.get(node)) {
+                int neigh = i.b;
+                long wt = i.a;
 
-                    if ( minDistance[nodeDest] > distDest ) {
-                        minDistance[nodeDest] = distDest;
-                        ways[nodeDest] = ways[nodeSrc];
-                        pq.add(new long[]{distDest, nodeDest});
-                    } else if ( minDistance[nodeDest] == distDest ) {
-                        ways[nodeDest] = (ways[nodeDest] + ways[nodeSrc]) % MOD;
-                    }
+                if (dis + wt < dist[neigh]) {
+                    dist[neigh] = dis + wt;
+                    pq.add(new Pair(dist[neigh], neigh));
+                    ways[neigh] = ways[node];
+                } else if (dis + wt == dist[neigh]) {
+                    ways[neigh] = (ways[neigh] + ways[node]) % mod;
                 }
             }
         }
 
-        return ways[n-1];
+        return ways[n - 1];
     }
 }
