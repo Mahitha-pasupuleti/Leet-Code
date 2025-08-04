@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1894-merge-strings-alternately) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3226-minimum-number-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3226-minimum-number-game) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3189-find-champion-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3189-find-champion-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
