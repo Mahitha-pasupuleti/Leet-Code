@@ -7,6 +7,26 @@
 //   - It only checks adjacent indices, which can belong to the same or different components
 //   - It also doesn't apply path compression, so it may miss true leaders
 
+/*
+    1. Wrong assumption: adjacent indices represent different components
+It assumes that parent[i] != parent[i+1] implies a new component.
+
+That’s not necessarily true in disjoint sets.
+
+Node 0 and node 2 may belong to different components, but your logic won't catch that because you only compare i and i+1.
+
+2. parent[i] might not be the actual root
+In Union-Find, the parent[] array is not guaranteed to have direct root pointers unless you've called find(i) (which does path compression).
+
+For example, parent[3] = 2, parent[2] = 1, parent[1] = 1. So the root of 3 is 1, but parent[3] = 2 — it’s not updated until you call find(3).
+
+\U0001f534 So just comparing parent[i] and parent[i+1] will:
+
+Miss disconnected components (non-adjacent)
+
+Misidentify components because the true root isn't being checked
+*/
+
 class DSU {
     int[] rank;
     int[] parent;
