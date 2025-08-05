@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0303-range-sum-query-immutable) |
+| [0305-number-of-islands-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0305-number-of-islands-ii) |
 | [0322-coin-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0290-word-pattern) |
+| [0305-number-of-islands-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0305-number-of-islands-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0349-intersection-of-two-arrays) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0261-graph-valid-tree) |
+| [0305-number-of-islands-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
