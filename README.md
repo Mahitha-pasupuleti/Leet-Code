@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2058-concatenation-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1091,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1143,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Minimum Spanning Tree
 |  |
