@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1731-even-odd-tree) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
@@ -1091,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1147,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
