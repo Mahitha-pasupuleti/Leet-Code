@@ -8,9 +8,7 @@ class Solution {
     }
     public int climbStairs(int n) {
         dp = new int[n+1];
-        for ( int i=0; i<n+1; i++ ) {
-            dp[i] = -1;
-        }
+        Arrays.fill(dp, -1);
         return solve(n);
     }
 }
