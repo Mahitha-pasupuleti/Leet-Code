@@ -1,22 +1,20 @@
 class Solution {
     Boolean[] dp;
-    public boolean solve(String s, List<String> wordDict, int i) {
-        if ( i >= s.length() ) return true;
-        if ( dp[i] != null ) return dp[i];
+    private boolean solve(int start, String s, List<String> wordDict) {
+        if ( start >= s.length() ) return true;
+        if ( dp[start] != null ) return dp[start];
         for ( String word : wordDict ) {
-            if ( i + word.length() <= s.length() && s.substring(i, i + word.length()).equals(word) ) {
-                if ( solve( s, wordDict, i + word.length() ) ) {
-                    dp[i] = true;
-                    return true;
-                }
+            if ( start + word.length() > s.length() ) continue;
+            String wordOfS = s.substring(start, start + word.length());
+            if ( wordOfS.equals(word) ) {
+                dp[start] = solve(start + word.length(), s, wordDict);
+                if ( dp[start] ) return true;
             }
         }
-        dp[i] = false;
         return false;
     }
     public boolean wordBreak(String s, List<String> wordDict) {
-        int n = s.length();
-        dp = new Boolean[n+1];
-        return solve(s, wordDict, 0);
+        dp = new Boolean[s.length()];
+        return solve(0, s, wordDict);
     }
 }
