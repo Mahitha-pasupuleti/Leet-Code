@@ -1,15 +1,15 @@
 class Solution {
     int[] dp;
-    public int solve(int[] nums, int i) {
-        if ( i >= nums.length ) return 0;
-        if ( dp[i] != -1 ) return dp[i];
-        return dp[i] = Math.max( nums[i] + solve(nums, i+2), solve(nums, i+1) ); 
-        // 0/1 Kanpsack problem
+    private int solve(int n, int[] nums) {
+        if ( n >= nums.length ) return 0;
+        if ( dp[n] != -1 ) return dp[n];
+        return dp[n] = Math.max(nums[n] + solve(n+2, nums), nums[n] + solve(n+3, nums));
     }
     public int rob(int[] nums) {
-        int n= nums.length;
+        int n = nums.length;
         dp = new int[n+1];
-        for ( int i=0; i<n+1; i++ ) dp[i] = -1;
-        return solve(nums, 0);
+        Arrays.fill(dp, -1);
+
+        return Math.max( solve(0, nums), solve(1, nums) );
     }
 }
