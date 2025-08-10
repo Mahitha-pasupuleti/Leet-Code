@@ -1,24 +1,23 @@
 class Solution {
-    int[][] dp;
-    private int solve(int start, int prevColor, int[][] costs) {
-        if ( start == costs.length ) return 0;
-        if ( prevColor != -1 && dp[start][prevColor] != -1 ) return dp[start][prevColor];
-        int red = Integer.MAX_VALUE, green = Integer.MAX_VALUE, blue = Integer.MAX_VALUE;
-
-        if ( prevColor != 0 ) red = costs[start][0] + solve(start+1, 0, costs);
-        if ( prevColor != 1 ) green = costs[start][1] + solve(start+1, 1, costs);
-        if ( prevColor != 2 ) blue = costs[start][2] + solve(start+1, 2, costs);
-
-        int minimum = Math.min(Math.min(red, green), blue);
-        if ( prevColor == -1 ) return minimum;
-        return dp[start][prevColor] = minimum;
-    }
     public int minCost(int[][] costs) {
         int n = costs.length;
-        dp = new int[n+1][4];
-        for ( int i=0; i<=n; i++ ) {
-            Arrays.fill(dp[i], -1);
+        int[][] dp = new int[n][3];
+
+        for ( int i=0; i<3; i++ ) {
+            dp[0][i] = costs[0][i];
         }
-        return solve(0, -1, costs); // start house index, previous house color
+
+        for ( int i=1; i<n; i++ ) {
+            dp[i][0] = costs[i][0] + Math.min( dp[i-1][1], dp[i-1][2] );
+            dp[i][1] = costs[i][1] + Math.min( dp[i-1][0], dp[i-1][2] );
+            dp[i][2] = costs[i][2] + Math.min( dp[i-1][0], dp[i-1][1] );
+        }
+
+        int minCost = Integer.MAX_VALUE;
+        for ( int i=0; i<3; i++ ) {
+            minCost = Math.min( minCost, dp[n-1][i] );
+        }
+
+        return minCost;
     }
 }
