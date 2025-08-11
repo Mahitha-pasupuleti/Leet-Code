@@ -9,11 +9,11 @@ class Solution {
         int weekPass = costs[1];
         for ( int i=start+1; i<days.length; i++ ) {
             if ( days[i] > days[start]+6 ) {
-                //System.out.println( days[i] );
                 weekPass += solve(i, days, costs);
                 break;
             }
         }
+        // month pass
         int monthPass = costs[2];
         for ( int i=start+1; i<days.length; i++ ) {
             if ( days[i] > days[start]+29 ) {
