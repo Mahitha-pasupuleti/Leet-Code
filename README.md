@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 ## Two Pointers
 |  |
 | ------- |
