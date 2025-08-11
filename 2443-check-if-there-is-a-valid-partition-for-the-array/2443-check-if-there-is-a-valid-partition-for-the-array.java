@@ -20,9 +20,13 @@ class Solution {
         if ( start == nums.length ) return true;
         if ( dp[start] != null ) return dp[start];
         boolean result1 = false, result2 = false;
-        if ( start+1 < nums.length && checkEqual(nums, start, start+1) ) result1 = solve(start+2, nums);
-        if ( start+2 < nums.length && (checkEqual(nums, start, start+2) || isIncreasing(nums, start, start+2)) ) result2 = solve(start+3, nums);
-        return dp[start] = result1 || result2;
+        if ( start+1 < nums.length && checkEqual(nums, start, start+1) ) {
+            if ( solve(start+2, nums) ) return dp[start] = true;
+        }
+        if ( start+2 < nums.length && (checkEqual(nums, start, start+2) || isIncreasing(nums, start, start+2)) ) {
+            if ( solve(start+3, nums) ) return dp[start] = true;
+        }
+        return dp[start] = false;
     }
     public boolean validPartition(int[] nums) {
         dp = new Boolean[nums.length+1];
