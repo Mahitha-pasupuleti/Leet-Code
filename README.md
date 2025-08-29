@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0940-fruit-into-baskets) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0343-integer-break) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
+| [0909-stone-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1236-n-th-tribonacci-number) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0909-stone-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1025-minimum-cost-for-tickets) |
@@ -1187,4 +1190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1706-min-cost-to-connect-all-points) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
