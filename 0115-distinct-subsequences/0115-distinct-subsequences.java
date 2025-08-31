@@ -1,26 +1,25 @@
 class Solution {
+    int[][] dp;
+    private int noofDistinctWays(String s, String t, int n, int m) {
+        if ( m < 0 ) return 1;
+        if ( n < 0 ) return 0;
+        if ( dp[n][m] != -1 ) return dp[n][m];
+        int take = 0, notTake = 0;
+        if ( s.charAt(n) == t.charAt(m) ) {
+            take = noofDistinctWays(s, t, n-1, m-1); // (4, 0), babgba, ba
+            notTake = noofDistinctWays(s, t, n-1, m); // (4, 1)
+        } else {
+            notTake = noofDistinctWays(s, t, n-1, m);
+        }
+        return dp[n][m] = take + notTake;
+    }
     public int numDistinct(String s, String t) {
-        int n = s.length();
-        int m = t.length();
-
-        int[][] dp = new int[n+1][m+1];
-
-        for ( int i=0; i<=n; i++ ) {
-            dp[i][0] = 1; // j = 0
+        int sLen = s.length(); 
+        int tLen = t.length();
+        dp = new int[sLen][tLen];
+        for ( int i=0; i<sLen; i++ ) {
+            Arrays.fill(dp[i], -1);
         }
-        for ( int j=1; j<=m; j++ ) {
-            dp[0][j] = 0; // i = 0
-        }
-        for ( int i=1; i<=n; i++ ) {
-            for ( int j=1; j<=m; j++ ) {
-                if ( s.charAt(i-1) == t.charAt(j-1) ) {
-                    dp[i][j] = dp[i-1][j-1] + dp[i-1][j];
-                } else {
-                    dp[i][j] = dp[i-1][j];
-                }
-            }
-        }
-
-        return dp[n][m];
+        return noofDistinctWays(s, t, sLen - 1, tLen - 1); // 6, 2
     }
 }
