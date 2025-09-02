@@ -17,6 +17,7 @@ class Solution {
         return value;
     }
     public boolean isInterleave(String s1, String s2, String s3) {
+        if ( s1.length() + s2.length() != s3.length() ) return false;
         memo = new HashMap<>();
         return solve(0, 0, 0, s1, s2, s3);
     }
