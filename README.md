@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1559-cherry-pickup-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
