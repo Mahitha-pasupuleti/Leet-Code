@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0485-max-consecutive-ones) |
+| [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
+| [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
+| [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0545-boundary-of-binary-tree) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
+| [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0617-merge-two-binary-trees) |
