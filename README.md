@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0503-next-greater-element-ii) |
+| [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0695-max-area-of-island](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0545-boundary-of-binary-tree) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0617-merge-two-binary-trees) |
@@ -912,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
+| [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
@@ -1143,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0399-evaluate-division) |
+| [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
@@ -1212,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0399-evaluate-division) |
+| [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
