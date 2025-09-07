@@ -8,15 +8,10 @@ class Solution {
             adjList.computeIfAbsent(destNode, k -> new ArrayList<>()).add(new int[]{srcNode, i});
         }
 
-        int[] parent = new int[n];
         double[] maxProb = new double[n];
 
         Arrays.fill(maxProb, Integer.MIN_VALUE); // to get maximum probabilty, take all min values first
         maxProb[start_node] = 1.0; // the intilaly values changes as per problem requirement
-
-        for ( int i=0; i<n; i++ ) {
-            parent[i] = i;
-        }
 
         // MAX-HEAP, since we wan the maximum value
         PriorityQueue<double[]> pq = new PriorityQueue<>(
