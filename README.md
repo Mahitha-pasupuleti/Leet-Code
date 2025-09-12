@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3447-clear-digits) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
 | [2634-minimum-common-value](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2634-minimum-common-value) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2714-left-and-right-sum-differences](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3731-sum-of-variable-length-subarrays) |
