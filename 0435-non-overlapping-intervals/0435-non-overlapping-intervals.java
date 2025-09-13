@@ -8,9 +8,15 @@ class Solution {
                 // prior interval completed no overlap
                 end = intervals[i][1];
             } else {
+                // overlap exists
                 noofRemovals++;
             }
         }
         return noofRemovals;
     }
 }
+
+/*
+     - use your brain in interval problems
+     - first think if sort by start or sort by end are gonna help
+*/
