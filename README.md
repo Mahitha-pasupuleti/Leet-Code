@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3954-maximum-balanced-shipments](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3954-maximum-balanced-shipments) |
 ## Array
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3954-maximum-balanced-shipments](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3954-maximum-balanced-shipments) |
 ## Binary Search
 |  |
 | ------- |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [3954-maximum-balanced-shipments](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3954-maximum-balanced-shipments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3447-clear-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3447-clear-digits) |
+| [3954-maximum-balanced-shipments](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3954-maximum-balanced-shipments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -975,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
+| [3954-maximum-balanced-shipments](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3954-maximum-balanced-shipments) |
 ## Simulation
 |  |
 | ------- |
