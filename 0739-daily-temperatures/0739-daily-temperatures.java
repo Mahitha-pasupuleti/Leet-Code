@@ -1,18 +1,20 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        Stack<int[]> stack = new Stack<>();
+        // to find the next largest value
+        int[] result = new int[temperatures.length];
+        int index = 0;
+        Deque<Integer> decreasingDq = new ArrayDeque<>();
+
+        // decreasing queue, the first element will always be maximum
         for ( int i=0; i<temperatures.length; i++ ) {
-                while ( !stack.isEmpty() && stack.peek()[0] < temperatures[i] ) {
-                    temperatures[ stack.peek()[1] ] = i - stack.peek()[1];
-                    stack.pop();
-                }
-                stack.push( new int[]{ temperatures[i], i } );
+            while ( !decreasingDq.isEmpty() && temperatures[ decreasingDq.peekLast() ] < temperatures[i] ) {
+                int pastDay = decreasingDq.pollLast();
+                result[ pastDay ] = i - pastDay;
+            }
+            decreasingDq.addLast( i );
         }
-        
-        while ( !stack.isEmpty() ) {
-            temperatures[ stack.peek()[1] ] = 0;
-            stack.pop();
-        }
-        return temperatures;
+        result[ decreasingDq.pollLast() ] = 0;
+
+        return result;
     }
 }
