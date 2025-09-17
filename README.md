@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0300-longest-increasing-subsequence) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0345-reverse-vowels-of-a-string) |
