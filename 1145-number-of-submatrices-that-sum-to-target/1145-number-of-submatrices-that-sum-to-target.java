@@ -19,7 +19,10 @@ class Solution {
                 map.put(0, 1);
                 int currSum = 0;
                 for ( int col=1; col<=n; col++ ) {
-                    currSum = prefix[row2][col] - prefix[row1-1][col];
+                    int colSum = prefix[row2][col] - prefix[row1 - 1][col] 
+                               - prefix[row2][col - 1] + prefix[row1 - 1][col - 1];
+
+                    currSum += colSum;
                     int value = currSum - target;
                     if ( map.containsKey(value) ) count += map.get(value);
                     map.put(currSum, map.getOrDefault(currSum, 0) + 1);
