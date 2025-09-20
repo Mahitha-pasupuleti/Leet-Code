@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1130-last-stone-weight-ii) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1117-as-far-from-land-as-possible) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1039-find-the-town-judge) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1060,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0732-my-calendar-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
