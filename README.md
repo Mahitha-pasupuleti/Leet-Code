@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
 | [2634-minimum-common-value](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2634-minimum-common-value) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
 ## Counting
 |  |
@@ -1173,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Union Find
 |  |
 | ------- |
