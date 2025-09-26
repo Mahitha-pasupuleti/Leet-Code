@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Interactive
 |  |
 | ------- |
