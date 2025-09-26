@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3827-implement-router](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3827-implement-router) |
 | [3954-maximum-balanced-shipments](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3954-maximum-balanced-shipments) |
 ## Binary Search
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2634-minimum-common-value) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3827-implement-router](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2634-minimum-common-value) |
+| [3827-implement-router](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
+| [3827-implement-router](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -1155,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
+| [3827-implement-router](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -1173,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0732-my-calendar-iii) |
 | [0931-maximum-frequency-stack](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0931-maximum-frequency-stack) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2413-smallest-number-in-infinite-set) |
+| [3827-implement-router](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
