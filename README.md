@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0243-shortest-word-distance) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0213-house-robber-ii) |
@@ -919,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1038,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1236-n-th-tribonacci-number) |
@@ -1189,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 ## Hash Function
 |  |
 | ------- |
