@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
+| [0859-design-circular-deque](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
+| [0859-design-circular-deque](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
@@ -1164,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
+| [0859-design-circular-deque](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0937-online-stock-span) |
