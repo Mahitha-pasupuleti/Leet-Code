@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0246-strobogrammatic-number) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0229-majority-element-ii) |
@@ -1168,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0271-encode-and-decode-strings) |
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 ## Hash Function
 |  |
 | ------- |
