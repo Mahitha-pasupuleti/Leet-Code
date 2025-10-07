@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2165-plates-between-candles) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3447-clear-digits) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2714-left-and-right-sum-differences) |
+| [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2634-minimum-common-value) |
+| [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 | [3827-implement-router](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 | [3954-maximum-balanced-shipments](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3954-maximum-balanced-shipments) |
 ## Two Pointers
 |  |
@@ -1228,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Function
 |  |
 | ------- |
