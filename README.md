@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2165-plates-between-candles](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2165-plates-between-candles) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2058-concatenation-of-array) |
 | [2165-plates-between-candles](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2165-plates-between-candles) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Queue
 |  |
 | ------- |
