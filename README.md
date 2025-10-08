@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1196-filling-bookcase-shelves) |
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1005-univalued-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1235,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Function
 |  |
