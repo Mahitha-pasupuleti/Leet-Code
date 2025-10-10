@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1239,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Function
 |  |
