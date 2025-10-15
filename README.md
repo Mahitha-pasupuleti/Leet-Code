@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0278-first-bad-version) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
+| [2995-number-of-unique-categories](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2995-number-of-unique-categories) |
 ## Tree
 |  |
 | ------- |
@@ -1117,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2995-number-of-unique-categories](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2995-number-of-unique-categories) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2995-number-of-unique-categories](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2995-number-of-unique-categories) |
 | [3863-power-grid-maintenance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
