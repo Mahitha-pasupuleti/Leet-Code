@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0239-sliding-window-maximum) |
 | [0243-shortest-word-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0243-shortest-word-distance) |
+| [0252-meeting-rooms](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0295-find-median-from-data-stream) |
