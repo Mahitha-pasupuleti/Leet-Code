@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0990-verifying-an-alien-dictionary) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0740-delete-and-earn) |
+| [0753-open-the-lock](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
