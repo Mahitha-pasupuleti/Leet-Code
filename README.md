@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0343-integer-break) |
+| [0371-sum-of-two-integers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
 | [0909-stone-game](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1013-fibonacci-number) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
