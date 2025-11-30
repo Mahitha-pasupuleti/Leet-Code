@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0780-max-chunks-to-make-sorted) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0740-delete-and-earn) |
@@ -1008,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1043,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
 | [0505-the-maze-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0505-the-maze-ii) |
 | [0506-relative-ranks](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0778-reorganize-string) |
@@ -1133,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0778-reorganize-string) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1396-count-servers-that-communicate) |
