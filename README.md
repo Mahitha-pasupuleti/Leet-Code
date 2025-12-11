@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1768-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1768-merge-strings-alternately) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0917-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1768-merge-strings-alternately) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1894-merge-strings-alternately](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
