@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
 | [1833-find-the-highest-altitude](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1929-concatenation-of-array) |
 | [1962-single-threaded-cpu](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2035-count-sub-islands) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2058-concatenation-of-array) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2692-take-gifts-from-the-richest-pile) |
