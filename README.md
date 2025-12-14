@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1405-longest-happy-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1405-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1405-longest-happy-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1405-longest-happy-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
+| [1405-longest-happy-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1405-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1753-path-with-minimum-effort) |
