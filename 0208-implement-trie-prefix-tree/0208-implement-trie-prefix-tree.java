@@ -23,6 +23,7 @@ class Node {
     }
 }
 class Trie {
+
     private Node root;
 
     public Trie() {
