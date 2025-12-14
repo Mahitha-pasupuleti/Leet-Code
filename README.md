@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0485-max-consecutive-ones) |
 | [0490-the-maze](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0518-coin-change-ii) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0371-sum-of-two-integers) |
+| [0473-matchsticks-to-square](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0787-sliding-puzzle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1490,4 +1494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0732-my-calendar-iii) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
