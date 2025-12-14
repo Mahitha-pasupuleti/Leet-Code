@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0621-task-scheduler) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0860-design-circular-queue) |
@@ -1266,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0303-range-sum-query-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0346-moving-average-from-data-stream) |
 | [0355-design-twitter](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0732-my-calendar-iii) |
@@ -1426,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1582-design-browser-history) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
