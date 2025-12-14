@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
+| [1094-car-pooling](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1095-find-in-mountain-array) |
 | [1117-as-far-from-land-as-possible](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
+| [1094-car-pooling](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1094-car-pooling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
+| [1094-car-pooling](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1325-path-with-maximum-probability) |
 | [1405-longest-happy-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1405-longest-happy-string) |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2058-concatenation-of-array) |
 | [2617-time-taken-to-cross-the-door](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2617-time-taken-to-cross-the-door) |
@@ -1215,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0732-my-calendar-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1094-car-pooling) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1435-xor-queries-of-a-subarray) |
