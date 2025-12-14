@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1074-high-five](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1074-high-five) |
+| [1095-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1095-find-in-mountain-array) |
 | [1117-as-far-from-land-as-possible](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1130-last-stone-weight-ii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0981-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1095-find-in-mountain-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1095-find-in-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1185-find-in-mountain-array) |
 | [2995-number-of-unique-categories](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2995-number-of-unique-categories) |
 ## Tree
