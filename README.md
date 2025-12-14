@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0246-strobogrammatic-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0217-contains-duplicate) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0286-walls-and-gates) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0787-sliding-puzzle) |
@@ -1346,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0212-word-search-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/2707-extra-characters-in-a-string) |
