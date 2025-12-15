@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0269-alien-dictionary) |
 | [0285-inorder-successor-in-bst](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0285-inorder-successor-in-bst) |
+| [0310-minimum-height-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0399-evaluate-division) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0286-walls-and-gates) |
+| [0310-minimum-height-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1411,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0269-alien-dictionary) |
+| [0310-minimum-height-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0399-evaluate-division) |
@@ -1449,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0269-alien-dictionary) |
+| [0310-minimum-height-trees](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0820-find-eventual-safe-states) |
 | [1101-parallel-courses](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1101-parallel-courses) |
