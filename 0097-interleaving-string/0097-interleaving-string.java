@@ -1,21 +1,28 @@
 class Solution {
-    Boolean[][] dp;
-    private boolean solve(int i, int j, int k, String s1, String s2, String s3) {
-        if ( i+j == s3.length() ) return i == s1.length() && j == s2.length();
-        if ( dp[i][j] != null ) return dp[i][j];
-        boolean s1Take = false;
-        boolean s2Take = false;
-        if ( i<s1.length() && s1.charAt(i) == s3.charAt(i+j) ) {
-            s1Take = solve(i+1, j, i+j+1, s1, s2, s3);
+    Map<String, Boolean> memo;
+    private boolean solve(int s1Index, int s2Index, int s3Index, String s1, String s2, String s3) {
+        if ( s3Index == s3.length() && s1Index == s1.length() && s2Index == s2.length() ) return true;
+
+        String key = s1Index + ":" + s2Index + ":" + s3Index;
+        if ( memo.containsKey(key) ) return memo.get(key);
+
+        if ( s1Index < s1.length() && s3Index < s3.length() && s3.charAt(s3Index) == s1.charAt(s1Index) ) {
+            if ( solve(s1Index+1, s2Index, s3Index+1, s1, s2, s3) ) {
+                memo.put(key, true);
+                return true;
+            }
         }
-        if ( j<s2.length() && s2.charAt(j) == s3.charAt(i+j) ) {
-            s2Take = solve(i, j+1, i+j+1, s1, s2, s3);
+        if ( s2Index < s2.length() && s3Index < s3.length() && s3.charAt(s3Index) == s2.charAt(s2Index) ) {
+            if ( solve(s1Index, s2Index+1, s3Index+1, s1, s2, s3) ) {
+                memo.put(key, true);
+                return true;
+            }
         }
-        return dp[i][j] = s1Take || s2Take;
+        memo.put(key, false);
+        return false;
     }
     public boolean isInterleave(String s1, String s2, String s3) {
-        if ( s1.length() + s2.length() != s3.length() ) return false;
-        dp = new Boolean[s1.length()+1][s2.length()+1];
+        memo = new HashMap<>();
         return solve(0, 0, 0, s1, s2, s3);
     }
 }
