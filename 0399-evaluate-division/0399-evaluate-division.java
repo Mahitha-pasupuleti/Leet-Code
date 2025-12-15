@@ -1,48 +1,45 @@
-import java.util.*;
-
 class Solution {
-    private double dfs(Map<String, Map<String, Double>> adjList, Set<String> visited, String current, String target, double value) {
-        if (!adjList.containsKey(current) || !adjList.containsKey(target)) return -1.0;
-        if (current.equals(target)) return value;
-
-        visited.add(current);
-
-        Map<String, Double> neighbors = adjList.get(current);
-        for (String neighbor : neighbors.keySet()) {
-            if (!visited.contains(neighbor)) {
-                double result = dfs(adjList, visited, neighbor, target, value * neighbors.get(neighbor));
-                if (result != -1.0) return result;
+    private double dfs(String source, String dest, Map<String, Map<String, Double>> adjMap, Set<String> visited) {
+        visited.add(source);
+        if ( source.equals(dest) ) return 1.0;
+        Map<String, Double> nodeList = adjMap.get(source);
+        double result;
+        if ( nodeList != null ) {
+            for ( Map.Entry<String, Double> node : nodeList.entrySet() ) {
+                if ( visited.contains(node.getKey()) ) continue;
+                result = node.getValue() * dfs(node.getKey(), dest, adjMap, visited);
+                if ( result >= 0 ) return result;
             }
         }
-
         return -1.0;
     }
-
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
-        Map<String, Map<String, Double>> adjList = new HashMap<>();
+        Map<String, Map<String, Double>> adjMap = new HashMap<>();
+        for ( int i=0; i<equations.size(); i++ ) {
+            String numerator = equations.get(i).get(0);
+            String denominator = equations.get(i).get(1);
 
-        // Build the graph
-        for (int i = 0; i < equations.size(); i++) {
-            String a = equations.get(i).get(0);
-            String b = equations.get(i).get(1);
-            double val = values[i];
+            adjMap.putIfAbsent(numerator, new HashMap<>());
+            adjMap.putIfAbsent(denominator, new HashMap<>());
 
-            adjList.putIfAbsent(a, new HashMap<>());
-            adjList.putIfAbsent(b, new HashMap<>());
-            adjList.get(a).put(b, val);
-            adjList.get(b).put(a, 1.0 / val);
+            adjMap.get(numerator).put(denominator, values[i]);
+            adjMap.get(denominator).put(numerator, 1.0 / values[i]);
         }
+        
+        int size = queries.size();
+        double[] finalResult = new double[size];
+        int index = 0;
 
-        double[] results = new double[queries.size()];
-
-        // Run DFS for each query
-        for (int i = 0; i < queries.size(); i++) {
-            String src = queries.get(i).get(0);
-            String dest = queries.get(i).get(1);
+        for ( List<String> query : queries ) {
             Set<String> visited = new HashSet<>();
-            results[i] = dfs(adjList, visited, src, dest, 1.0);
+            if ( !adjMap.containsKey(query.get(0)) || !adjMap.containsKey(query.get(1)) ) {
+                finalResult[index++] = -1.0;
+                continue;
+            }
+            double result = dfs(query.get(0), query.get(1), adjMap, visited);
+            finalResult[index++] = result;
         }
 
-        return results;
+        return finalResult;
     }
 }
