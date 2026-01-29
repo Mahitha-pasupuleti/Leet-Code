@@ -1565,4 +1565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Mahitha-pasupuleti/Leet-Code-JS/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
